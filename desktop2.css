@@ -1382,7 +1382,7 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 39px;
+  font-size: 34px;
   font-style: Semi Bold;
   text-align: left;
   font-family: Inter;
@@ -1543,12 +1543,12 @@
 .desktop2-text253 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 20px;
+  font-size: 39x;
   font-style: Medium;
   text-align: left;
   font-family: Inter;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 10px;
   font-stretch: normal;
   text-decoration: none;
 }
@@ -1569,7 +1569,7 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 34px;
   font-style: Semi Bold;
   text-align: left;
   font-family: Inter;
@@ -1752,7 +1752,7 @@
 .desktop2-text284 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 20px;
+  font-size: 1px;
   font-style: Medium;
   text-align: left;
   font-family: Inter;
@@ -1764,7 +1764,7 @@
 .desktop2-text286 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 32px;
+  font-size: 34px;
   font-style: Semi Bold;
   text-align: left;
   font-family: Inter;

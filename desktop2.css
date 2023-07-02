@@ -1,3 +1,6 @@
+.desktop2 {
+  width: 1920px;
+}
 .desktop2-container {
   width: 100%;
   display: flex;
@@ -7,50 +10,45 @@
   flex-direction: column;
 }
 .desktop2-desktop2 {
-  width: 100%;
+  width: 100%; 
+  max-width: 1920px; 
+  margin: 0 auto;
   height: 5953px;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 0;
-  background-color: #000000;
+  border: none;
+  padding: 0;
+  margin: 0;
 }
 .desktop2-rectangle3 {
   top: 901px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 846px;
   position: absolute;
 }
 .desktop2-rectangle10 {
   top: 2616px;
   left: 0px;
-  width: 1440px;
-  height: 694px;
+  width: 1920px;
   position: absolute;
 }
 .desktop2-rectangle29 {
   top: 4831px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 864px;
   position: absolute;
 }
 .desktop2-rectangle23 {
   top: 4134px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 697px;
   position: absolute;
-  border-color: rgba(27, 129, 49, 1);
-  border-style: solid;
-  border-width: 1px;
 }
 .desktop2-header {
   top: 0px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 140px;
   position: absolute;
 }
@@ -656,7 +654,7 @@
 .desktop2-footer {
   top: 5693px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 260px;
   position: absolute;
 }
@@ -701,7 +699,7 @@
 .desktop2-header1 {
   top: 140px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 761px;
   position: absolute;
 }
@@ -847,7 +845,7 @@
 .desktop2-rectangle39 {
   top: 1747px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 869px;
   position: absolute;
 }
@@ -885,7 +883,7 @@
 .desktop2-rectangle41 {
   top: 3307px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 827px;
   position: absolute;
 }
@@ -1487,7 +1485,7 @@
   position: absolute;
   align-items: flex-start;
   border-radius: 2px;
-  background-color: rgba(255, 255, 255, 0.07000000029802322);
+  background-color: rgba(255, 255, 255, 0.07);
 }
 .desktop2-text237 {
   color: rgb(255, 255, 255);
@@ -1517,54 +1515,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop2-text241 {
-  top: 237px;
-  left: 4px;
-  color: rgb(255, 255, 255);
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text245 {
-  top: 283px;
-  left: 4px;
-  color: rgb(255, 255, 255);
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text249 {
-  top: 336px;
-  left: 5px;
-  color: rgb(255, 255, 255);
-  width: 373px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
+
+
 .desktop2-divsrcmainappcomponents-pricing-boxes-pricing-boxesbox1 {
   top: 0px;
   left: 448px;
@@ -1666,7 +1619,7 @@
   top: 0px;
   left: 0px;
   width: 368px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
+  border: 0px dashed rgba(120, 120, 120, 0.4);
   bottom: 0px;
   height: 55px;
   margin: auto;
@@ -1682,7 +1635,6 @@
   top: 0px;
   left: 0px;
   width: 368px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   bottom: 0px;
   height: 55px;
   margin: auto;
@@ -1698,7 +1650,6 @@
   top: 48px;
   right: -447px;
   width: 368px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: 55px;
   margin: auto;
   display: flex;
@@ -1736,7 +1687,7 @@
 .desktop2-link7 {
   right: -447px;
   width: 368px;
-  bottom: -1px;
+  bottom: 0px;
   display: flex;
   padding: 13px 147.1999969482422px 13px 147.8000030517578px;
   z-index: 100;
@@ -1773,70 +1724,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop2-text267 {
-  top: 225px;
-  color: rgb(255, 255, 255);
-  right: -16px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text271 {
-  top: 357px;
-  color: rgb(255, 255, 255);
-  right: -16px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text276 {
-  top: 261px;
-  color: rgb(255, 255, 255);
-  right: -15px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text280 {
-  top: 308px;
-  color: rgb(255, 255, 255);
-  right: -16px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
+
+
 .desktop2-divsrcmainappcomponents-pricing-boxes-pricing-boxesbox2 {
   top: 0px;
   left: 896px;
@@ -1902,14 +1792,8 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.desktop2-container1 {
-  flex: 0 0 auto;
-  width: 368px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: auto;
-  display: flex;
-  flex-direction: column;
-}
+
+
 .desktop2-text290 {
   top: 197px;
   color: rgb(255, 255, 255);
@@ -1926,77 +1810,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.desktop2-text293 {
-  top: 257px;
-  color: rgb(255, 255, 255);
-  right: -4px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text295 {
-  color: #ffffff;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  text-decoration: none;
-}
-.desktop2-text299 {
-  top: 284px;
-  left: 3px;
-  color: rgb(255, 255, 255);
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text303 {
-  top: 311px;
-  color: rgb(255, 255, 255);
-  right: -6px;
-  width: 412px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop2-text306 {
-  top: 359px;
-  color: rgb(255, 255, 255);
-  right: -5px;
-  width: 411px;
-  height: auto;
-  position: absolute;
-  font-size: 18px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 16px;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .desktop2-text310 {
   top: 426px;
   color: rgb(255, 255, 255);
